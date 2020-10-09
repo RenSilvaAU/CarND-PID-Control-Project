@@ -35,11 +35,10 @@ I set it to zero and left it there - the accumulated CTE should not influence ac
 
 ## Result
 The result is shown in this video:
-<div>
-<iframe 
-  src="http://www.youtube.com/embed/UoNyG5H5PLk?enablejsapi=1"
-  frameborder="1">
-</iframe>
+<div style="width:50%">
+<a href="https://www.youtube.com/watch?v=UoNyG5H5PLk">
+<img src="https://github.com/RenSilvaAU/CarND-PID-Control-Project/blob/master/pics/renslap.png?raw=true" />
+</a>
 </div>
 
 
