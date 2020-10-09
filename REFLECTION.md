@@ -37,7 +37,7 @@ I set it to zero and left it there - the accumulated CTE should not influence ac
 ## Result
 The result is shown in this video:
 
-[![SC2 Video](pics/renslap.PNG)](https://www.youtube.com/watch?v=UoNyG5H5PLk "Click to Watch!")
+[![Ren's Lap](./pics/renslap.PNG)](https://www.youtube.com/watch?v=UoNyG5H5PLk "Click to Watch!")
 
 
 
