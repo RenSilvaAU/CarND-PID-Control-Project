@@ -37,7 +37,7 @@ I set it to zero and left it there - the accumulated CTE should not influence ac
 ## Result
 The result is shown in this video:
 
-<iframe src="http://www.youtube.com/embed/W7qWa52k-nE"
+<iframe src="https://youtu.be/UoNyG5H5PLk"
    width="560" height="315" frameborder="0" allowfullscreen>
 </iframe>
 
